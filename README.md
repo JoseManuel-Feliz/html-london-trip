@@ -1,6 +1,6 @@
 # html-london-trip
 
-> **Breve descrizione:** > Creazione di una web page utilizzando il layout in allegato, che tiene traccia delle attività da fare, numeri utili e spese per un ipotetico viaggio a Londra. Il progetto utilizza HTML per realizzare la struttura della pagina e gestire i percorsi delle immagini (assoluti e relativi).
+> **Breve descrizione:** Creazione di una web page utilizzando il layout in allegato, che tiene traccia delle attività da fare, numeri utili e spese per un ipotetico viaggio a Londra. Il progetto utilizza HTML per realizzare la struttura della pagina e gestire i percorsi delle immagini (assoluti e relativi).
 
 ---
 
